@@ -5,7 +5,7 @@ Title: ""
 
 # Welcome And Thank You For Taking Time Out Of Your Fay To Visit My Website  
 
-"Made with <b style=\"color: #f45;\">&lt;3</b>"
+Roses are <span style="color:red">red</span>, violets are <span style="color:blue">blue</span>  
 
 ![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/profilepic2.PNG)  
 
