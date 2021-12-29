@@ -3,9 +3,7 @@ Layout: page
 Title: ""
 ---
 
-# Welcome And Thank You For Taking Time Out Of Your Fay To Visit My Website  
-
-Roses are <span style="color:red">red</span>, violets are <span style="color:blue">blue</span>  
+# Thank You For Taking Time Out Of Your Day To Visit My Website  
 
 ![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/profilepic2.PNG)  
 
