@@ -16,9 +16,9 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {title: "Education", file: "education.md"}
   - {title: "Technical Experience", file: "experience.md"}
   - {title: "Personal Projects", file: "projects.md"}
-  - {title: "About Me", file: "about.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:kowelcarter@gmail.com"}
