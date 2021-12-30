@@ -25,4 +25,4 @@ Through journey as an engineering student have engaged in design teams, school p
 # Personal Projects  
 Throughout my day to day life I run into many nuisances, some of which I have attempted to solve.  
 
-Click [here](projects.md) to learn more   
+**Click [here](projects.md) to learn more**
