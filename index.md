@@ -26,12 +26,3 @@ Through journey as an engineering student have engaged in design teams, school p
 Throughout my day to day life I run into many nuisances, some of which I have attempted to solve.  
 
 Click [here](projects.md) to learn more   
-
-
-
-# [Education (What Even Is Engineering Physics??)](education.md)
-
-
-# [Technical Experience](experience.md)
-
-# [Personal Projects](projects.md)
