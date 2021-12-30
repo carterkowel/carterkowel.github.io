@@ -9,7 +9,12 @@ Title: ""
 
 My name is Carter Kowel and I am a thrid year engineering physics student and am looking for an 8 month coop poisition from May 2022 to December 2022.
 
-# [Education (What Even Is Engineering Physics??)](education.md)
+Roses are <span style="color:red">red</span>, violets are <span style="color:blue">blue</span>  
+
+
+<span style="color:black"># [Education (What Even Is Engineering Physics??)](education.md)</span>
+
+[Education (What Even Is Engineering Physics??)](education.md)
 
 # [Technical Experience](experience.md)
 
