@@ -20,7 +20,8 @@ Product Development Engineer, Jan 2021 – Apr 2021
  	* Etc  
 * Statistical process control python code  
 * 3D modeling products in SOLIDWORKS and Fushion360  
-	* Used the CAM tool in Fushion360 for CNC milling   
+	* Used the CAM tool in Fushion360 for CNC milling  
+
 **Documentation**    
 * Made engineering drawings for clients and manufacturers  
 * Followed Engineering Change Order protocol to release and revise designs into production  
