@@ -13,19 +13,19 @@ Product Development Engineer, Jan 2021 – Apr 2021
 +	4-Layer PCB cost reduction redesign  
 +	Worked on 9 production jigs to increase repeatability  
   - PCB calibration pogo pin jig  
-  •	Spring analysis production jig  
-  •	PCB alignment jig  
-  •	Probe inspection jig  
-  •	Etc  
-•	Statistical process control python code  
-•	3D modeling products in SOLIDWORKS and Fushion360  
-  •	Used the CAM tool in Fushion360 for CNC milling  
+  -	Spring analysis production jig  
+  -	PCB alignment jig  
+  -	Probe inspection jig  
+  -	Etc  
+	Statistical process control python code  
+	3D modeling products in SOLIDWORKS and Fushion360  
+	Used the CAM tool in Fushion360 for CNC milling  
 **Documentation**  
-•	Made engineering drawings for clients and manufacturers  
-•	Followed Engineering Change Order protocol to release and revise designs into production  
-•	Wrote user manuals, safety documents, and procedures for client use  
-•	Designed step-by-step Manufacturing Assembly Instructions for various products  
-•	Maintained Bill Of Materials for several projects, tracking inventory and budgeting  
+	Made engineering drawings for clients and manufacturers  
+	Followed Engineering Change Order protocol to release and revise designs into production  
+	Wrote user manuals, safety documents, and procedures for client use  
+	Designed step-by-step Manufacturing Assembly Instructions for various products  
+	Maintained Bill Of Materials for several projects, tracking inventory and budgeting  
 
 
 
