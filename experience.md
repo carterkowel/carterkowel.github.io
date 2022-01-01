@@ -10,13 +10,6 @@ Product Development Engineer, Jan 2021 – Apr 2021
 **Note: Respecting my employer and our NDA, I will refrain from describing certain details of my experience.**  
 [Accelovant](https://www.accelovant.com/) is start-up company located in North Vancouver that is pushing the boundaries on innovative fiber-optic temperature solutions. My technical responsibilities included:  
 **Design**  
-* First item
-* Second item
-* Third item
-    * First nested item
-    * Second nested item
-
-
 * 4-Layer PCB cost reduction redesign  
 * Worked on 9 production jigs to increase repeatability  
  	* PCB calibration pogo pin jig 
