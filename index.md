@@ -3,7 +3,7 @@ Layout: page
 Title: ""
 ---
 
-# Thank You For Taking Time Out Of Your Day To Visit My Website  
+# Welcome  
 
 ![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/profilepic2.PNG)  
 
