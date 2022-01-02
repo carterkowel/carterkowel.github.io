@@ -10,7 +10,7 @@ Title: ""
 My name is Carter Kowel and I am a thrid year engineering physics student and am looking for an 8 month coop poisition from May 2022 to December 2022.
 
 
-# Education (What Even Is Engineering Physics??)  
+# Education (What Is Engineering Physics?)  
 In short, it is a fully accredited engineering program that is a combination the real-world applications of engineering with the analytical rigor of physics and math.
 Engineering physics studnets enroll in ELEC, CPEN, MECH, MATH, and PHYS classes and gain the fundametals to take on multidisiplinary problem solving.  
 
