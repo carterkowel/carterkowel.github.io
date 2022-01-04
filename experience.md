@@ -36,39 +36,21 @@ Product Development Engineer, Jan 2021 – Apr 2021
 * Maintained Bill Of Materials for several projects, tracking inventory and budgeting  
 
 
-
-
 # UBC Solar Car Design Team  
 Electrical and Mechanical Team Member, Sept 2019 – Mar 2021  
 ![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/UBCSolar.jpg)  
 
 [UBC Solar](https://ubcsolar.com/) is a student team focused on the design and manufacturing of solar-powered race cars. Their core values include sustainability, education, and proffesionalism. My technical responsibilities included: 
 
-## Design 
-* 4-Layer PCB Cost Reduction Redesign
-	* Redesigned a 4-layer PCB in Altium, replacing an upstream transformer for a BUCK converter and a downstream digital isolator to reduce production cost by 20%
-	* Routed sensitive SPI signals, utilizing multi-layer ground planes to protect the signals
-•	Car Cabling Schematic in Altium  
-•	Steering wheel PCB design in Eagle  
-•	3D Modeling of mounts and fastenrs in Solidworks  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Mars Rover Robot Competition  
-Electrical Lead, May 2021 – Aug 2021  
-![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/robot1.PNG)  
-•	Designed an autonomous robot that collected and delivered cans using line following to traverse a course and servos to collect and deliver cans  
-•	Implemented an organized routing system with capacitors and shielding to reduce noise  
-•	Integrated and soldered h-bridges, sensor circuits, and servo actuator circuits  
-
+**Projects**  
+* Car Cabling Schematic
+	* Designed an organized wiring schematic of the car’s electrical systems using Altium
+	* Purchased cabling based on gauge, shielding, length, and number of conductors
+* Steering Wheel PCB
+	* Designed a steering wheel board to efficiently house steering wheel controls, optimizing usability and reducing messy wiring
+	* Integrated the circuit schematic and routing using Eagle, minimizing electrical noise using low pass filters
+	* Placed surface mount components using a laser cut stencil and reflow oven, hand soldered through hole components
+* 3D Modeling Mounts
+	* Designed 3D mounts on Solidworks, optimizing structural integrity and weight
+	* Selected components such as hinges, latches, and screws based on required specifications
+	* Manufacturing a sheet metal mount using a waterjet cutter and a plastic mount using a 3D printer
