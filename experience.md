@@ -10,8 +10,8 @@ Product Development Engineer, Jan 2021 – Apr 2021
 **Note: Respecting my employer and our NDA, I will refrain from describing certain details of my experience.**  
 [Accelovant](https://www.accelovant.com/) is start-up company located in North Vancouver that is pushing the boundaries on innovative fiber-optic temperature solutions. My technical responsibilities included: 
 
-## Design Projects 
-### 4-Layer PCB Cost Reduction Redesign
+## Design 
+* 4-Layer PCB Cost Reduction Redesign
 	* Redesigned a 4-layer PCB in Altium, replacing an upstream transformer for a BUCK converter and a downstream digital isolator to reduce production cost by 20%
 	* Routed sensitive SPI signals, utilizing multi-layer ground planes to protect the signals
 	* Collaborated with colleagues to ensure accessible debugging pins and precise mechanical integration of components such as the grounding contact with the housing
@@ -26,7 +26,7 @@ Product Development Engineer, Jan 2021 – Apr 2021
 * Force Analysis Production Jig
 	* Designed an apparatus of 3D printed parts, a load cell, an Arduino, and a precision linear stage, that measures the reaction force from a given displacement
 
-**Documentation**    
+## Documentation  
 * Made engineering drawings for clients and manufacturers  
 * Followed Engineering Change Order protocol to release and revise designs into production  
 * Wrote user manuals, safety documents, and procedures for client use  
