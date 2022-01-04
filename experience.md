@@ -10,7 +10,7 @@ Product Development Engineer, Jan 2021 – Apr 2021
 **Note: Respecting my employer and our NDA, I will refrain from describing certain details of my experience.**  
 [Accelovant](https://www.accelovant.com/) is start-up company located in North Vancouver that is pushing the boundaries on innovative fiber-optic temperature solutions. My technical responsibilities included: 
 
-## Design 
+**Design**  
 * 4-Layer PCB Cost Reduction Redesign
 	* Redesigned a 4-layer PCB in Altium, replacing an upstream transformer for a BUCK converter and a downstream digital isolator to reduce production cost by 20%
 	* Routed sensitive SPI signals, utilizing multi-layer ground planes to protect the signals
@@ -28,7 +28,7 @@ Product Development Engineer, Jan 2021 – Apr 2021
 * 3D modeling products in SOLIDWORKS and Fushion360  
 	* Used the CAM tool in Fushion360 for CNC milling 
 
-## Documentation  
+**Documentation**   
 * Made engineering drawings for clients and manufacturers  
 * Followed Engineering Change Order protocol to release and revise designs into production  
 * Wrote user manuals, safety documents, and procedures for client use  
@@ -42,10 +42,28 @@ Product Development Engineer, Jan 2021 – Apr 2021
 Electrical and Mechanical Team Member, Sept 2019 – Mar 2021  
 ![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/UBCSolar.jpg)  
 
-[UBC Solar](https://ubcsolar.com/) is a student team focused on the design and manufacturing of solar-powered race cars. Their core values include sustainability, education, and proffesionalism. My experience indluded:  
+[UBC Solar](https://ubcsolar.com/) is a student team focused on the design and manufacturing of solar-powered race cars. Their core values include sustainability, education, and proffesionalism. My technical responsibilities included: 
+
+## Design 
+* 4-Layer PCB Cost Reduction Redesign
+	* Redesigned a 4-layer PCB in Altium, replacing an upstream transformer for a BUCK converter and a downstream digital isolator to reduce production cost by 20%
+	* Routed sensitive SPI signals, utilizing multi-layer ground planes to protect the signals
 •	Car Cabling Schematic in Altium  
 •	Steering wheel PCB design in Eagle  
 •	3D Modeling of mounts and fastenrs in Solidworks  
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Mars Rover Robot Competition  
 Electrical Lead, May 2021 – Aug 2021  
