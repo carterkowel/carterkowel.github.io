@@ -12,6 +12,7 @@ Electrical Lead, May 2021 – Aug 2021
 
 # UBC Parking Machine Learning Competition 
 UBC ENPH 353, Sept 2021 – Dec 2021
+![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/353im8.PNG)    
 * Developed an autonomous controller for a ROS simulated robot capable of traversing a parking lot, obeying traffic laws, and processing a camera feed to identify license plates
 * Identified license plates by implementing data processing techniques on the camera feed to isolate the plates, which were then inputted into a trained neural network
 
