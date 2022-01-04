@@ -25,6 +25,8 @@ Product Development Engineer, Jan 2021 – Apr 2021
 	* Designed a csv generation code in python which organizes data into graphical and analyzable form
 * Force Analysis Production Jig
 	* Designed an apparatus of 3D printed parts, a load cell, an Arduino, and a precision linear stage, that measures the reaction force from a given displacement
+* 3D modeling products in SOLIDWORKS and Fushion360  
+	* Used the CAM tool in Fushion360 for CNC milling 
 
 ## Documentation  
 * Made engineering drawings for clients and manufacturers  
