@@ -10,20 +10,8 @@ Product Development Engineer, Jan 2021 – Apr 2021
 **Note: Respecting my employer and our NDA, I will refrain from describing certain details of my experience.**  
 [Accelovant](https://www.accelovant.com/) is start-up company located in North Vancouver that is pushing the boundaries on innovative fiber-optic temperature solutions. My technical responsibilities included: 
 
-**Design**  
-* 4-Layer PCB cost reduction redesign  
-* Worked on 9 production jigs to increase repeatability
-	* PCB calibration pogo pin jig
-	* Force analysis production jig  
- 	* PCB alignment jig  
- 	* Probe inspection jig  
- 	* Etc  
-* Statistical process control python code  
-* 3D modeling products in SOLIDWORKS and Fushion360  
-	* Used the CAM tool in Fushion360 for CNC milling  
-
-**Notable Projects**  
-* 4-Layer PCB Cost Reduction Redesign
+## Design Projects 
+### 4-Layer PCB Cost Reduction Redesign
 	* Redesigned a 4-layer PCB in Altium, replacing an upstream transformer for a BUCK converter and a downstream digital isolator to reduce production cost by 20%
 	* Routed sensitive SPI signals, utilizing multi-layer ground planes to protect the signals
 	* Collaborated with colleagues to ensure accessible debugging pins and precise mechanical integration of components such as the grounding contact with the housing
