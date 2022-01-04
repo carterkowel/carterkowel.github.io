@@ -14,13 +14,29 @@ Product Development Engineer, Jan 2021 – Apr 2021
 * 4-Layer PCB cost reduction redesign  
 * Worked on 9 production jigs to increase repeatability
 	* PCB calibration pogo pin jig
-	* Spring analysis production jig  
+	* Force analysis production jig  
  	* PCB alignment jig  
  	* Probe inspection jig  
  	* Etc  
 * Statistical process control python code  
 * 3D modeling products in SOLIDWORKS and Fushion360  
 	* Used the CAM tool in Fushion360 for CNC milling  
+
+**Notable Projects**  
+* 4-Layer PCB Cost Reduction Redesign
+	* Redesigned a 4-layer PCB in Altium, replacing an upstream transformer for a BUCK converter and a downstream digital isolator to reduce production cost by 20%
+	* Routed sensitive SPI signals, utilizing multi-layer ground planes to protect the signals
+	* Collaborated with colleagues to ensure accessible debugging pins and precise mechanical integration of components such as the grounding contact with the housing
+* PCB Calibration Pogo Pin Jig
+	* Designed a 3D printed jig in Solidworks that probes the DUT with pogo pins, introducing usability and repeatability to the calibration process
+	* Developed a via stitched PCB in Altium with a coaxial cable to achieve optimal signal immunity
+	* Manufactured a close-fitting carriage and selected self-aligning bushings for smooth functionality
+	* Wrote detailed assembly and calibration procedures for use of the production team
+* Statistical Process Control Python Code
+	* Conducted statistical process control on electrical products by interpreting voltage readings
+	* Designed a csv generation code in python which organizes data into graphical and analyzable form
+* Force Analysis Production Jig
+	* Designed an apparatus of 3D printed parts, a load cell, an Arduino, and a precision linear stage, that measures the reaction force from a given displacement
 
 **Documentation**    
 * Made engineering drawings for clients and manufacturers  
