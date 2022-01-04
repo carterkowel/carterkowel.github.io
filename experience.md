@@ -12,9 +12,9 @@ Product Development Engineer, Jan 2021 – Apr 2021
 
 **Design**  
 * 4-Layer PCB cost reduction redesign  
-* Worked on 9 production jigs to increase repeatability  
-** PCB calibration pogo pin jig 
- 	* Spring analysis production jig  
+* Worked on 9 production jigs to increase repeatability
+	* PCB calibration pogo pin jig
+	* Spring analysis production jig  
  	* PCB alignment jig  
  	* Probe inspection jig  
  	* Etc  
