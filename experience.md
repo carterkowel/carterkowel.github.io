@@ -3,6 +3,14 @@ layout: page
 title: "Technical Experience"
 ---
 
+# Solidigm  
+Firmware Development Engineer, May 2022 – Dec 202  
+![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/solodigm-logo-2_678x452.png)  
+
+**Projects**  
+* To be filled in
+	* To be filled in
+
 # Accelovant  
 Product Development Engineer, Jan 2021 – Apr 2021  
 ![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/accelovant.PNG)  
