@@ -7,6 +7,7 @@ Title: ""
 
 My name is Carter Kowel and I am a fourth year engineering physics student and am looking for an 4 month coop position from May 2023 to August 2023.
 
+![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/IMG-2436.PNG)  
 
 # Education (What Is Engineering Physics?)  
 In short, it is a fully accredited engineering program that is a combination of the real-world applications of engineering with the analytical rigor of physics and math.
