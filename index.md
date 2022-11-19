@@ -1,6 +1,6 @@
 ---
-Layout: page
-Title: ""
+layout: page
+title: ""
 ---
 
 # Welcome  
