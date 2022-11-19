@@ -5,8 +5,6 @@ Title: ""
 
 # Welcome  
 
-![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/profilepic2.PNG)  
-
 My name is Carter Kowel and I am a fourth year engineering physics student and am looking for an 4 month coop position from May 2023 to August 2023.
 
 
