@@ -5,10 +5,10 @@ title: "Leadership"
 
 # Teaching Assistant 
  PHYS 157, Aug 2022 – Dec 2022  
-![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/robot1.PNG)  
-* to be added 
+![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/ubcPHAS.png)  
+* Enriches the learning of students by teaching a weekly tutorial and providing feedback on homeworks and assessments
 
 # Tutoring  
-UBC ENPH 353, Jan 2022 – Aug 2022  
-![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/353im8.PNG)    
-* to be added
+AMS of UBC Vancouver, Jan 2022 – Aug 2022  
+![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/amsTut.png)    
+* Helped 1st year engineering students accomplish their academic goals by completing 40 hours of one on one tutoring and 35 hours of group tutoring  
