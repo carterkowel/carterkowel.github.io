@@ -14,9 +14,9 @@ title: "Education"
 APSC 450 - Engineering Ethics  
 CPSC 330 - Applied Machine Learning  
 ELEC 302 - Electronic Circuits for Electromechanical Design  
-ELEC 481 - Engineering Economics 
-ENPH 352 - Laboratory Techniques in Physics   
-ENPH 459 - Capstone (AI Air Hockey Table)  
+ELEC 481 - Engineering Economics    
+ENPH 352 - Laboratory Techniques in Physics     
+ENPH 459 - Capstone (AI Air Hockey Table)   
 MATH 318 - Probability with Physical Applications  
 MATH 400 - Applied Partial Differential Equations  
 MECH 466 - Controls    
@@ -34,7 +34,7 @@ MATH 305 - Applied Complex Analysis
 MATH 307 - Applied Linear Algebra  
 MECH 325 - Machine Design  
 MECH 280 - Introduction to Fluid Mechanics  
-MECH 360 - Mechanics of Materials II
+MECH 360 - Mechanics of Materials II      
 PHYS 301 - Electricity and Magnetism  
 PHYS 304 - Introduction to Quantum Mechanics    
 PHYS 350 - Applications of Classical Mechanics  
@@ -47,8 +47,8 @@ ENPH 259 - Electronics Laboratory and Communication
 ENPH 270 - Mechanics II  
 MATH 217 - Multivariable Calculus, Vector Calculus  
 MATH 255 - Ordinary Differential Equations  
-MATH 257 - Partial DIfferential Equations  
-MECH 260 - Mechanics of Materials I
+MATH 257 - Partial Differential Equations  
+MECH 260 - Mechanics of Materials I       
 PHYS 203 - Thermal Physics I    
 PHYS 250 - Introduction to Modern Physics  
 
