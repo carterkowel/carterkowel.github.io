@@ -6,7 +6,7 @@ title: "Leadership"
 # Teaching Assistant 
  PHYS 157, Aug 2022 – Dec 2022  
 ![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/ubcPHAS.png)   
-* Enriches the learning of students by teaching a weekly tutorial and providing feedback on homeworks and assessments
+* Enriches the learning of students by teaching a weekly tutorial and providing constructive feedback on homeworks and assessments
 
 # Tutoring  
 AMS of UBC Vancouver, Jan 2022 – Aug 2022  
