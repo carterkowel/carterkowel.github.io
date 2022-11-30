@@ -6,12 +6,37 @@ title: "Technical Experience"
 # Solidigm  
 Firmware Development Engineer, May 2022 – Dec 202  
 ![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/solodigm-logo-2_678x452.png)  
-![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/debugtool.gif)  
-
 
 **Projects**  
-* To be filled in
+* Command Line Remote Debugger Script
+![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/debugtool.gif)  
+	* Designed a python script that automates the connection process of using ARM and GDB to debug remote systems
+	* Configured a launch.json file to intergrate the convieient VSCode debugger with the GDB 
+	* Documented the script using diagrams, requirments.txt, and step-by-step instructions to streamline the setup process
+	* Through continuous feedback and communication with my team, I incorporated thier desired features:
+		* Implemented both argparse and ... to allow for the option to provide argumentrs or get prompted for them
+		* The script seraches through your machines files to provide you with all valid options
+		* Automatically selects an option when there is only one avaliable
+		* Utalized a json file that stores the last ran paramaters and allows ussers to customize thier defualts
+	
+* Log Page Regression Testing Framework
+	* Automated a testing framework for one of our products in C and C++
 	* To be filled in
+	* To be filled in
+	* To be filled in
+
+* Various Firmware Features
+	* Interacted with register read, writes, and masks
+	* To be filled in
+	* To be filled in
+	* To be filled in
+
+**Skills**  
+	* LINUX enviorment
+	* Scripting with python and bash
+	* Version controls such as github, gitlab, and bitbucket
+	* Writing firmware with C and C++
+	
 
 # Accelovant  
 Product Development Engineer, Jan 2021 – Apr 2021  
