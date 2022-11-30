@@ -6,7 +6,6 @@ title: "Technical Experience"
 # Solidigm  
 Firmware Development Engineer, May 2022 – Dec 2022   
 ![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/solodigm-logo-2_678x452.png)  
-
 **Projects**  
 * Command Line Remote Debugger Script  	
 ![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/debugtoolgif.gif)  
