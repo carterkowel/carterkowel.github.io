@@ -6,6 +6,8 @@ title: "Technical Experience"
 # Solidigm  
 Firmware Development Engineer, May 2022 – Dec 202  
 ![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/solodigm-logo-2_678x452.png)  
+![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/debugtool.gif)  
+
 
 **Projects**  
 * To be filled in
