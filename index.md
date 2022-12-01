@@ -28,4 +28,4 @@ I have found that projects are a fun way to reinforce my learning by applying th
 # Leadership
 My commitments to TAing and tutoring have helped me reflect and build upon my ability to be a leader to those around me. My experience on teams in engineering and non-engineering settings have taught me the value of leadership and I strive to actively focus on building and maintaining this skill.
 
-**Click [here](leadership.md) to learn more about my projects**
+**Click [here](leadership.md) to learn more about my leadership**
