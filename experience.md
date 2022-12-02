@@ -10,32 +10,31 @@ Firmware Development Engineer, May 2022 – Dec 2022
 * Command Line Remote Debugger Script  	
 ![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/debugtoolgif.gif)  
 	* Designed a python script that automates the connection process of using ARM and GDB to debug remote systems
-	* Configured a launch.json file to intergrate the convieient VSCode debugger with the GDB 
+	* Configured vscode and openocd launch files to integrate the convenient VSCode debugger with GDB 
+	* Integrated GDB with VSCode IDE for efficient and convenient debugging by configuring launch files 
 	* Documented the script using diagrams, requirments.txt, and step-by-step instructions to streamline the setup process
-	* Through continuous feedback and communication with my team, I incorporated thier desired features:
-		* Implemented both argparse and ... to allow for the option to provide argumentrs or get prompted for them
-		* The script seraches through your machines files to provide you with all valid options
-		* Automatically selects an option when there is only one avaliable
-		* Utalized a json file that stores the last ran paramaters and allows ussers to customize thier defualts
+	* Through continuous feedback and communication with my team, I incorporated their desired features:
+		* Implemented both argparse and InquirerPy to allow for the option to provide arguments or get prompted for them
+		* Smart file searching the ensures the script onlys prompts the user with valid and functional options
+		* Automatically selects an option when there is only one available
+		* Utilized a json file that stores the last ran parameters and allows users to customize their defaults
 	
 * Log Page Regression Testing Framework
-	* Automated a testing framework for one of our products in C and C++
-	* To be filled in
-	* To be filled in
-	* To be filled in
+	* Automated a log page retrieval testing framework for an embedded system using C and C++
+	* Designed a verification API that interacts with a console menu through wrapper functions
+	* Followed high quality error handling practices by implementing a test result data type and enums 
+	* Modified a console menu data type, enhancing an interactive testing menu experience
 
 * Various Firmware Features
-	* Interacted with register read, writes, and masks
-	* To be filled in
-	* To be filled in
-	* To be filled in
+	* Interacted with register reads, writes, and masks
+	* Consulted documentation and legacy code to further understand the intricacies of the task
+	* Extensive troubleshooting and debugging
 
 **Skills**  
-	* LINUX enviorment
-	* Scripting with python and bash
-	* Version controls such as github, gitlab, and bitbucket
-	* Writing firmware with C and C++
-	
+	* LINUX environment  
+	* Scripting with python and bash  
+	* Version controls such as github, gitlab, and bitbucket  
+	* Writing firmware with C and C++  
 
 # Accelovant  
 Product Development Engineer, Jan 2021 – Apr 2021  
