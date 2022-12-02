@@ -8,6 +8,7 @@ Firmware Development Engineer, May 2022 – Dec 2022
 ![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/solodigm-logo-2_678x452.png)  
 **Projects**  
 * Command Line Remote Debugger Script  		
+
 ![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/debugtoolgif.gif)  	
 	* Designed a python script that automates the connection process of using ARM and GDB to debug remote systems
 	* Configured vscode and openocd launch files to integrate the convenient VSCode debugger with GDB 
