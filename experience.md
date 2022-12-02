@@ -14,7 +14,7 @@ Firmware Development Engineer, May 2022 – Dec 2022
 	* Integrated GDB with VSCode IDE for efficient and convenient debugging by configuring launch files 
 	* Documented the script using diagrams, requirments.txt, and step-by-step instructions to streamline the setup process
 	* Through continuous feedback and communication with my team, I incorporated their desired features:
-		* Implemented both argparse and InquirerPy to allow for the option to provide arguments or get prompted for them
+		* Implemented both argparse and InquirerPy to allow for providing arguments or getting prompted for them
 		* Smart file searching the ensures the script onlys prompts the user with valid and functional options
 		* Automatically selects an option when there is only one available
 		* Utilized a json file that stores the last ran parameters and allows users to customize their defaults
