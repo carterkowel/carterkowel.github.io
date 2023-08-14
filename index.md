@@ -5,7 +5,7 @@ title: ""
 
 # Welcome  
 
-My name is Carter Kowel and I am a fourth year engineering physics student and am looking for a 4 month coop position from May 2023 to August 2023.
+My name is Carter Kowel and I am a fifth year UBC engineering physics student graduating in May 2024 and am looking for a full time position.
 
 ![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/IMG-2436.jpg)  
 
