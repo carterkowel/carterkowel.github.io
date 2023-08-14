@@ -3,6 +3,14 @@ layout: page
 title: "Technical Experience"
 ---
 
+# D-Wave  
+Electrical Design Engineer, May 2023 – Aug 2023   
+![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/Logo_dwave.png)  
+**Skills**  
+* KiCAD  
+* Solidworks
+* Python
+
 # Solidigm  
 Firmware Development Engineer, May 2022 – Dec 2022   
 ![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/solodigm-logo-2_678x452.png)  
