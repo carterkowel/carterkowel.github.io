@@ -2,11 +2,26 @@
 layout: page
 title: "Technical Experience"
 ---
+**Note: Respecting my previous employers and NDAs, I will refrain from describing certain details of my experiences.**  
 
 # D-Wave  
 Electrical Design Engineer, May 2023 – Aug 2023   
 ![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/Logo_dwave.png)  
+**Projects**  
+* QPU (Quantum Processing Unit) Power Supply Redesign  
+	* Custom designed a multifaceted prototype, reducing lead time by 85% and form factor by 50%
+	* Implemented communications infrastructure by developing a UART to RS232 communications converter PCB in KiCAD that integrates with a python GUI
+	* Designed high voltage safety covers, venting, routing, and electrical components to comply with CSA electrical equipment standards (CAN/CSA-C22.2 No. 61010-1)
+ 	* Designed an electronics enclosure using sheet metal design in Solidworks, incorporated PEMs and brackets for mounting and fastening, baffles for ideal air flow for sufficient cooling, and safety covers for electrical safety
+  	* Demonstrated thorough attention to detail by designing an enclosure with extremely tight clearances where accounting for uncertainties in manufacturing is crucial
+  	* Drafted engineering drawings to accompany Solidworks design, following D-Waves Mechanical Engineering Drafting Guidelines, ensuring
+
+* High Precision Quality Control Jigs
+	* Integrated 3D printed jigs in Solidworks with low noise PCBs to improve usability and repeatability
+ 	* Collaborated with colleagues through iterative feedback to ensure ergonomic and efficient designs
+
 **Skills**  
+* Project Management
 * KiCAD  
 * Solidworks
 * Python
@@ -47,7 +62,6 @@ Firmware Development Engineer, May 2022 – Dec 2022
 Product Development Engineer, Jan 2021 – Apr 2021  
 ![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/accelovant.PNG)  
 
-**Note: Respecting my employer and our NDA, I will refrain from describing certain details of my experience.**  
 [Accelovant](https://www.accelovant.com/) is start-up company located in North Vancouver that is pushing the boundaries on innovative fiber-optic temperature solutions. My technical responsibilities included: 
 
 **Design**  
@@ -65,8 +79,8 @@ Product Development Engineer, Jan 2021 – Apr 2021
 	* Designed a csv generation code in python which organizes data into graphical and analyzable form
 * Force Analysis Production Jig
 	* Designed an apparatus of 3D printed parts, a load cell, an Arduino, and a precision linear stage, that measures the reaction force from a given displacement
-* 3D modeling products in SOLIDWORKS and Fushion360  
-	* Used the CAM tool in Fushion360 for CNC milling 
+* 3D modeling products in SOLIDWORKS and Fusion360  
+	* Used the CAM tool in Fusion360 for CNC milling 
 
 **Documentation**   
 * Made engineering drawings for clients and manufacturers  
