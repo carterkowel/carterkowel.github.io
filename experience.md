@@ -11,14 +11,14 @@ Electrical Design Engineer, May 2023 – Aug 2023
 * QPU (Quantum Processing Unit) Power Supply Redesign  
 	* Custom designed a multifaceted prototype, reducing lead time by 85% and form factor by 50%
 	* Implemented communications infrastructure by developing a UART to RS232 communications converter PCB in KiCAD that integrates with a python GUI
-	* Designed high voltage safety covers, venting, routing, and electrical components to comply with CSA electrical equipment standards (CAN/CSA-C22.2 No. 61010-1)
+	* Designed high voltage safety covers, venting, routing, and electrical components to comply with CSA electrical equipment standards (CAN/CSA-C22.2 No. 61010-1)  
  	* Designed an electronics enclosure using sheet metal design in Solidworks, incorporated PEMs and brackets for mounting and fastening, baffles for ideal air flow for sufficient cooling, and safety covers for electrical safety
   	* Demonstrated thorough attention to detail by designing an enclosure with extremely tight clearances where accounting for uncertainties in manufacturing is crucial
   	* Drafted engineering drawings to accompany Solidworks design, following D-Waves Mechanical Engineering Drafting Guidelines, ensuring
 
 * High Precision Quality Control Jigs
-	* Integrated 3D printed jigs in Solidworks with low noise PCBs to improve usability and repeatability
- 	* Collaborated with colleagues through iterative feedback to ensure ergonomic and efficient designs
+	* Integrated 3D printed jigs in Solidworks with low noise PCBs to improve usability and repeatability  
+ 	* Collaborated with colleagues through iterative feedback to ensure ergonomic and efficient designs  
 
 **Skills**  
 * Project Management
