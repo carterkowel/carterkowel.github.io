@@ -5,7 +5,7 @@ title: ""
 
 # Welcome  
 
-My name is Carter Kowel and I am a fifth year UBC engineering physics student graduating in May 2024 and am looking for a full time position.
+My name is Carter Kowel and I am a 2024 UBC engineering physics student grad. I am currently working as an HMI Designer at Brock Solutions.
 
 ![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/IMG-2436.jpg)  
 
@@ -16,7 +16,7 @@ Engineering physics students enroll in ELEC, CPEN, MECH, MATH, and PHYS classes 
 **Click [here](education.md) to learn more about my education**
 
 # Technical Experience  
-Through my journey as an engineering student, I have engaged in design teams, school projects, and 2 coop terms. These opportunities have not only been great for learning but have strengthened my passion for engineering. Applying concepts towards meaningful real-world problems is why I am interested in this discipline. I strive towards developing my abilities to increase my impact on the world around me.   
+Through my journey as an engineering student, I have engaged in design teams, school projects, and 3 coop terms. These opportunities have not only been great for learning but have strengthened my passion for engineering. Applying concepts towards meaningful real-world problems is why I am interested in this discipline. I strive towards developing my abilities to increase my impact on the world around me.   
 
 **Click [here](experience.md) to learn more about my experience**
 
