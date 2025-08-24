@@ -4,8 +4,8 @@ title: "Personal Projects"
 ---
 
 # moneyTracker
-June 2025 - August 2025
-![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/moneyTrackerSummarygif.gif)  	 	
+All-in-One Expense Tracking Tool, June 2025 - August 2025  
+![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/moneyTrackerSummarygif.gif)  
 * moneyTracker is a multipage interactive dashboard built with Dash that makes tracking your expenses and analyzing spending habits effortless.  
 * It allows you to upload your credit card statements, categorize transactions, explore spending patterns, and use financial tools like cashback calculators and budgeting helpers — all in one place.  
 * For more info see: [Github](https://github.com/carterkowel/moneyTracker/) and [Live Demo](https://ckowel01.pythonanywhere.com/) 

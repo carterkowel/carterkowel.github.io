@@ -13,16 +13,20 @@ title: "Education"
 ## Fourth Year  
 APSC 450 - Engineering Ethics  
 CPSC 330 - Applied Machine Learning  
-ELEC 302 - Electronic Circuits for Electromechanical Design  
+ELEC 401 - Electronic Circuits for Electromechanical Design  
+ELEC 442 - Introduction to Robotics      
 ELEC 481 - Engineering Economics    
 ENPH 352 - Laboratory Techniques in Physics     
 ENPH 459 - Capstone (AI Air Hockey Table)   
+ENPH 479 - Capstone (MDA AMD VCK5000 FPGA Airplane ClassificatIon)   
 MATH 318 - Probability with Physical Applications  
 MATH 400 - Applied Partial Differential Equations  
 MECH 466 - Controls    
+PHYS 305 - Introduction to Biophysics    
 PHYS 401 - Electromagnetic Theory  
 PHYS 403 - Statistical Mechanics       
 PHYS 408 - Optics     
+PHYS 410 - Computational Physics       
 
 ## Third Year  
 APSC 278 - Engineering Materials  
