@@ -5,7 +5,7 @@ title: ""
 
 # Welcome  
 
-My name is Carter Kowel and I am a 2024 UBC engineering physics student grad. I am currently working as an HMI Designer at Brock Solutions.
+My name is Carter Kowel and I am a 2024 UBC engineering physics student grad. I am passionate and experienced in firmware, software, electronics, robotics, ml, and personal finance. 
 
 ![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/IMG-2436.jpg)  
 

@@ -4,8 +4,26 @@ title: "Technical Experience"
 ---
 **Note: Respecting my previous employers and NDAs, I will refrain from describing certain details of my experiences.**  
 
+# Brock Solutions
+SCADA Developer, *Full-Time*, May 2024 – July 2025   
+![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/Brock_Solutions_logo.png)  
+**Projects**  
+* Live System SCADA Development and Deployment    
+	* Designed SCADA systems for operation teams at two major international airports using Ignition  
+	* Deployed updates to live production environments with zero disruption through thorough testing  
+	* Utilized AutoCAD and engineering drawings to ensure SCADA designs were accurate and sleek  
+
+* Automation Python Scripts
+	* Automated repetitive and error-prone tasks in the SCADA workflow with Python scripts  
+
+**Skills**  
+* HMI/SCADA  
+* Ingition  
+* Python  
+* AutoCAD    
+
 # D-Wave  
-Electrical Design Engineer, May 2023 – Aug 2023   
+Electrical Design Engineer, *Intern*, May 2023 – Aug 2023   
 ![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/Logo_dwave.png)  
 **Projects**  
 * QPU (Quantum Processing Unit) Power Supply Redesign  
@@ -27,7 +45,7 @@ Electrical Design Engineer, May 2023 – Aug 2023
 * Python
 
 # Solidigm  
-Firmware Development Engineer, May 2022 – Dec 2022   
+Firmware Development Engineer, *Intern*, May 2022 – Dec 2022   
 ![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/solodigm-logo-2_678x452.png)  
 **Projects**  
 * Command Line Remote Debugger Script  
@@ -59,7 +77,7 @@ Firmware Development Engineer, May 2022 – Dec 2022
 * Writing firmware with C and C++  
 
 # Accelovant  
-Product Development Engineer, Jan 2021 – Apr 2021  
+Product Development Engineer, *Intern*, Jan 2021 – Apr 2021  
 ![rs](https://raw.githubusercontent.com/carterkowel/carterkowel.github.io/master/assets/images/accelovant.PNG)  
 
 [Accelovant](https://www.accelovant.com/) is start-up company located in North Vancouver that is pushing the boundaries on innovative fiber-optic temperature solutions. My technical responsibilities included: 
